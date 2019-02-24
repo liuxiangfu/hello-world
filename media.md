@@ -1,1 +1,3 @@
-# Kodi & [Emby]（https://emby.media/windows-server.html）
+# Kodi() & [Emby]
+Kodi(https://kodi.tv/) 
+Emby https://emby.media/windows-server.html）
